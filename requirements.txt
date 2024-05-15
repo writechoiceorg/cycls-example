@@ -1,0 +1,5 @@
+black==22.3.0
+flake8==4.0.1
+cycls
+python-dotenv
+groq
