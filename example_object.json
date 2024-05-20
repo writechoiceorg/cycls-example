@@ -1,0 +1,22 @@
+{
+    "id": "2ec752f1-9f71-4cc0-9426-a00b8e3a43b4",
+    "message": {
+        "id": "f22a8024-b0f4-4911-a65b-cd268e0bc664",
+        "created_at": "2024-05-15 20:13:30.316317",
+        "content": {
+            "text": "python random code",
+            "type": "text",
+            "meta": {}
+        },
+        "role": {
+            "_value_": "user",
+            "_name_": "USER",
+            "__objclass__": "{'_generate_next_value_': <staticmethod(<function Enum._generate_next_value_ at 0x000001559AE65F80>)>, '__module__': 'cycls.typings', '_new_member_': <built-in method __new__ of type object at 0x00007FFFAEA56750>, '_use_args_': False, '_member_names_': ['ASSISTANT', 'USER', 'CYCLS'], '_member_map_': {'ASSISTANT': <MessageRole.ASSISTANT: 'ASSISTANT'>, 'USER': <MessageRole.USER: 'user'>, 'CYCLS': <MessageRole.CYCLS: 'cycls'>}, '_value2member_map_': {'ASSISTANT': <MessageRole.ASSISTANT: 'ASSISTANT'>, 'user': <MessageRole.USER: 'user'>, 'cycls': <MessageRole.CYCLS: 'cycls'>}, '_unhashable_values_': [], '_member_type_': <class 'object'>, '_value_repr_': None, '__doc__': None, 'ASSISTANT': <MessageRole.ASSISTANT: 'ASSISTANT'>, 'USER': <MessageRole.USER: 'user'>, 'CYCLS': <MessageRole.CYCLS: 'cycls'>, '__new__': <function Enum.__new__ at 0x000001559AE65E40>}",
+            "_sort_order_": 1
+        },
+        "meta": {}
+    },
+    "meta": null,
+    "send": "method",
+    "stream": "method"
+}
