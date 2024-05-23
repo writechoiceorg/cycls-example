@@ -3,3 +3,4 @@ flake8==4.0.1
 cycls
 python-dotenv
 groq
+aiohttp
