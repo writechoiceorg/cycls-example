@@ -12,6 +12,8 @@ app = AsyncApp(
     handler="@write-choice-ai",
     name="Write Choice's AI",
     image="https://media.licdn.com/dms/image/D4D0BAQFm99CGLCggEQ/company-logo_200_200/0/1707828960215/write_choice_technical_writing_services_logo?e=1723680000&v=beta&t=fpOZeqrgbXd-beQI7LyZC7LcXJJMzttKiftcMWDWX30",
+    welcome="Welcome to WRITE CHOICE's AI!!",
+    suggestions=["Random python code to surprise me.", "Hello Write Choice's IA"],
 )
 
 
